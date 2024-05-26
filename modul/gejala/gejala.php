@@ -1,4 +1,4 @@
-<title>Gejala - Chirexs 1.0</title>
+<title>Gejala - ChickDoctor</title>
 <?php
 
 session_start();

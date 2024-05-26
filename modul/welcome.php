@@ -1,4 +1,4 @@
-<title>Beranda - Chirexs 1.0</title>
+<title>Beranda - ChickDoctor</title>
 <?php 
   $htgejala=mysqli_query($conn,"SELECT count(*) as total from gejala");
 	$dtgejala=mysqli_fetch_assoc($htgejala); ?>
@@ -42,7 +42,7 @@
             <div class="inner">
               <h3><?php echo $dtpengetahuan["total"]; ?></h3>
 
-              <p>Total Pengetahuan</p>
+              <p>Total Rules</p>
             </div>
             <div class="icon">
               <i class="ion ion-erlenmeyer-flask"></i>

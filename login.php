@@ -1,4 +1,4 @@
- <title>Login Gagal ! - Chirexs 1.0</title>
+ <title>Login Gagal ! - ChickDoctor</title>
 <?php
 session_start();
 include "config/koneksi.php";

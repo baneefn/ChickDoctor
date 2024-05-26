@@ -1,4 +1,4 @@
-<title>Bantuan - Chirexs 1.0</title>
+<title>Bantuan - ChickDoctor</title>
 <style>
 @media only screen and (max-width: 1220px) {
     img {

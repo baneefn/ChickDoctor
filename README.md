@@ -1,21 +1,3 @@
-# Chirex.1.0
-> Sistem Pakar Diagnosa Penyakit Pada Ayam Menggunakan Metode Certainty Factor Berbasis Website Responsive.
->
-
-
-## Berikut tampilan sistem yang di buat.
-
-* Home
-
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%201.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%202.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%203.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%205.png)
-
-* Admin
-
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Admin%201.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Admin%202.png)
 
 ## Configure
 
@@ -24,7 +6,7 @@ Gunakan XAMPP versi <b>PHP 7.4.9(*)</b> & <b>10.4.14-MariaDB</b> : setting nama 
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "spkayam";
+$database = "pakarayam";
 
 mysql_connect($server,$username,$password) or die("Koneksi gagal");
 mysql_select_db($database) or die("Maaf, Database tidak bisa dibuka");
@@ -93,41 +75,3 @@ Jawab:
 Kesimpulannya: Suatu penyakit thypus disebabkan oleh gejala-gejala 
 tersebut di atas memiliki nilai Certainty Factor ( CF) sebesar 0,67
 ```
-
-## Usage example
-
-Semoga hasil karya ini dapat berguna serta bermanfaat bagi perkembangan Teknologi dan Informasi pada khususnya. Serta sebagai kajian bagi mahasiswa dalam pengambilan skripsi.
-
-## Release History
-
-* 0.0.1
-    * Work in progress
-    
- * 0.0.2
-    * Updated to Php.7 by https://github.com/triannoviandi
-    
- * 0.0.3
-    * Bug Fix Update
-
-## Meta
-
-Copyright – [@januriawan](https://twitter.com/januriawan) – januriawan@duck.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/januriawan](https://github.com/januriawan/)
-
-## Disclaimer
-
-* Dilarang keras di perjual-belikan, source ini saya publikasi untuk keperluan belajar saja.
-    * Untuk yang mau file dokumentasi / skripsi bisa request dengan menghubungi saya (gratis).
-    * <b>Update</b> (Karena banyak yang meminta via Email, Sosmed dll. Mohon maaf karena keterbatasan waktu saya tidak bisa membalas, satu persatu
-    untuk itu silakan <b>download</b> di [Link Ini](https://www.scribd.com/document/431280343/Dokumentasi-Sistem-Pakar-Ayam-Skripsi)
- 
-## Donation
-
-* Bagi yang ingin <b>berdonasi</b> untuk pengembangan sistem yang lain, boleh kirim ke saweria saya 
-   * Saweria.co : [Donasi Sekarang](https://saweria.co/januriawan)
-   * Siapapun, berapapun, saya ucapkan terimakasih sebanyak-banyaknya.
-
-

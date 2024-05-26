@@ -56,9 +56,9 @@ include "config/fungsi_alert.php";
         <!-- Logo -->
         <a href="./" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b><i class="fa fa-contao" aria-hidden="true"></i>XS</b></span>
+          <span class="logo-mini"><b><i class="fa fa-contao" aria-hidden="true"></i>D</b></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b><i class="fa fa-contao" aria-hidden="true"></i>imol </b></span>
+          <span class="logo-lg"><b><i class="fa fa-contao" aria-hidden="true"></i>hickDoctor </b></span>
         </a>
         <!-- Header Navbar -->
         <nav class="navbar navbar-static-top" role="navigation">
@@ -83,7 +83,7 @@ include "config/fungsi_alert.php";
                         <img src="gambar/admin/admin.png" class="img-circle" alt="User Image">
                         <p>
                          Login sebagai <?php echo ucfirst($_SESSION['username']); ?>
-                          <small>Pakar dari Chirexs 1.0</small>
+                          <small>Pakar dari ChickDoctor</small>
                         </p>
                       </li>
                       <!-- Menu Body -->

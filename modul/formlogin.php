@@ -21,7 +21,7 @@ return (true);
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Login Pakar - Chirexs 1.0</title>
+  <title>Login Pakar - ChickDoctor</title>
       <link rel="stylesheet" href="aset/login/css/style.css">
 </head>
   <body>
